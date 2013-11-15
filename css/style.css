@@ -19,7 +19,7 @@ html, body {
 body {
 	margin: 0px;
 	padding: 0px;
-	background: #393939 url(images/img01.png) repeat;
+	background: #393939 url(images/foto.jpg) repeat;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size: 10pt;
 	color: #8A8A8A;
@@ -31,6 +31,7 @@ h1, h2, h3 {
 	font-family: 'Abel', sans-serif;
 	font-weight: 300;
 }
+
 
 p {
 	line-height: 180%;
@@ -284,7 +285,8 @@ ul.style4 .first {
 }
 #badge {
 	position: absolute;
-	top: 50px;
-	right: 60px;
+	top: 120px;
+	right: 240px;
 	width: 200px;
 }
+
