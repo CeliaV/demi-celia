@@ -282,4 +282,9 @@ ul.style4 .first {
 	height: 20px;
 	background: url(images/img12.png) repeat-x left top;
 }
-
+#badge {
+	position: absolute;
+	top: 50px;
+	right: 60px;
+	width: 200px;
+}
