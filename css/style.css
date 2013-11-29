@@ -282,7 +282,12 @@ ul.style4 .first {
 	margin: 30px 0px;
 	height: 20px;
 	background: url(images/img12.png) repeat-x left top;
-
+}
+#badge {
+   position: absolute;
+   top: 120px;
+   right: 240px;
+   width: 200px;
 }
 .Galleri {
 	width: 1300px;
